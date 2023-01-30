@@ -1,0 +1,16 @@
+body{
+      background-image: url(https://images.unsplash.com/photo-1673446932312-413e564c5640?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80);
+      background-size: cover;
+}
+.background{
+      background-color: rgba(52, 50, 50, 0.468);
+      padding: 30px;
+      text-align: center;
+      background-size: cover;
+      border-radius: 30px;
+      width: 350px;
+      color:rgba(255, 253, 253, 0.982);
+}
+.heading{
+      text-align: center;
+}
